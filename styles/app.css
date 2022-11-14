@@ -1,0 +1,10 @@
+h1 {
+  background: rgb(13, 0, 255);
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  font-family: "PT Mono", monospace;
+  font-weight: normal;
+}
